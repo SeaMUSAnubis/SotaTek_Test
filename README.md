@@ -148,7 +148,8 @@ Nhận xét: Hạn chế về mặt phần cứng, em traning model bằng kaggl
 
 
 ---
-
+## Web demo
+web-demo-seven-black.vercel.app
 ## Liên hệ & nguồn tham khảo
 
 - **Detectron2**: https://github.com/facebookresearch/detectron2
