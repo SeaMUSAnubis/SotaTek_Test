@@ -72,7 +72,8 @@ pip install -r requirements.txt
 ## Hướng dẫn Inference
 
 Chạy file `pipeline.py` bằng Command Line để lấy kết quả (Detection + OCR).
-LINK WEIGHT: https://drive.google.com/drive/folders/1fbtwt5APEdd65rpEE3fwfFPvycSG_VJC?usp=sharing
+
+LINK WEIGHT + DATA: https://drive.google.com/drive/folders/1fbtwt5APEdd65rpEE3fwfFPvycSG_VJC?usp=sharing
 
 ### Câu lệnh cơ bản
 
